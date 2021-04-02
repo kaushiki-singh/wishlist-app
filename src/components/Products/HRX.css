@@ -1,0 +1,17 @@
+/* .hrx {
+  display: flex;
+  flex-wrap: wrap;
+}
+.hrx1 {
+  display: flex;
+  flex-direction: column;
+  z-index:1;
+  align-items:center;
+  justify-content: flex-end;
+  
+  max-height: 250px;
+  width: 100%;
+  object-fit: contain;
+  margin-top: 30px;
+  /* margin-left: 20px; */
+/* margin-right: 0; */

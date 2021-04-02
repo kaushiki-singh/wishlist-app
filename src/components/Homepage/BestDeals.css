@@ -1,0 +1,14 @@
+.BestDeals {
+  display: inline-block;
+}
+.deals_image {
+  width: 18%;
+  margin: 14px;
+}
+.deals_heading {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  margin: 50px;
+  margin-left: 0;
+}
