@@ -5,7 +5,7 @@ import BestDeals from './BestDeals';
 import Shoes from './Shoes';
 import Accessories from './Accessories';
 import Footer from './Footer';
-import HRX from '../Products/HRX';
+// import HRX from '../Products/HRX';
 
 
 function Home() {

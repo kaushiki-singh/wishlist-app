@@ -16,7 +16,7 @@ function Offer() {
     var imgSlides = () =>  
     images.map(num => (  
       <div className="imgpad">  
-          <img className="imgdetails" src= {num.img} width="100%"/>    
+          <img className="imgdetails" src= {num.img} width="100%" alt=""/>    
       </div> 
       ));
     return (

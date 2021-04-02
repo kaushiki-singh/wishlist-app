@@ -7,7 +7,7 @@ function Header() {
     return (
         <div className="header">
             <img className="header_logo"
-             src="https://3.bp.blogspot.com/-BalaNVRwmhM/VoJmDzFmk0I/AAAAAAAA55I/OoVDKUax5zc/s400/WishList-logo.gif"/>
+             src="https://3.bp.blogspot.com/-BalaNVRwmhM/VoJmDzFmk0I/AAAAAAAA55I/OoVDKUax5zc/s400/WishList-logo.gif" alt=""/>
              <div className="header_nav">
                  <div className="header_option">
                      <span className="header_optionLine">
